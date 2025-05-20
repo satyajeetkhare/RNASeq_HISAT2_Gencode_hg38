@@ -4,7 +4,7 @@ These are the scripts used for RNA-Seq analysis of human transcriptome. The scri
 
 1. hisat2-build -p 12 Homo_sapiens.GRCh38.dna.primary_assembly.fa Homo_sapiens.GRCh38.dna.primary_assembly # This command creates an index for HISAT2
 2. hisat2_extract_splice_sites.py Homo_sapiens.GRCh38.93.gtf > Homo_sapiens.GRCh38.93_splicesites.txt # This command creates the splice site information for HISAT2
-3. c
+3. cutadao3
 4. hisa2_2.sh # Shell script to align filtered reads to Gencode hg38. 
 5. e
 6. f
