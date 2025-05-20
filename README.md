@@ -5,7 +5,7 @@ These are the scripts used for RNA-Seq analysis of human transcriptome. The scri
 1. a
 2. b
 3. c
-4. d
+4. hisa2_2.sh: Shell script to align filtered reads to Gencode hg38. 
 5. e
 6. f
 
